@@ -13,5 +13,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디)](https://github.com/깃허브아이디/github-readme-stats)
---- 
+
+ 
+### 🔗 Connect with me
+
+<p align="left">
+  <a href="www.linkedin.com/in/ilhwa-jeong" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:jeongilhwa93@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail"/>
+  </a>
+</p>
+
+---
