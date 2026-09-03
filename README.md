@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### 🔗 Connect with me
 
 <p align="left">
-  <a href="www.linkedin.com/in/ilhwa-jeong" target="_blank">
+  <a href="[www.linkedin.com/in/ilhwa-jeong](https://www.linkedin.com/in/ilhwa-jeong/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:jeongilhwa93@gmail.com">
